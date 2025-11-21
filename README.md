@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb703&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hello Everyone! 🌼✨</h2>
+<h2 align="center">Hello Everyone! I'm Saskiaa🌼✨</h2>
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌈 GitHub Stats (Cheerful)
+## 🌈 GitHub Stats 
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=saskianova&show_icons=true&theme=yellow" />
