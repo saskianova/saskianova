@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb703&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hello World! 🌼✨</h2>
+<h2 align="center">Hello Everyone! 🌼✨</h2>
 
 ---
 
 ## 🌻 About Me
-- 🎓 Student of Data Science  
+- 🎓 Student of Data Science'24 
 - 🌱 Currently learning Python & R  
 - 🎨 Loves design, colors, and creative digital stuff  
 - 💡 Fun fact: **menjadi anomali**  
@@ -20,9 +20,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 </p>
 
 ---
